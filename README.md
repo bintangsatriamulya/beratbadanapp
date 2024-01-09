@@ -1,4 +1,4 @@
-Berat Badan App
+# Berat Badan App - Kotlin
 
 Aplikasi Penghitung Berat Badan 
 
@@ -17,3 +17,4 @@ Fitur Utama
 Penggunaan
 1. Clone repository ini ke dalam Android Studio atau IDE Kotlin favorit Anda.
 2. Jalankan aplikasi di emulator atau perangkat Android fisik.
+3. Buidl Apk : https://drive.google.com/file/d/1CTLH54crwK0BpssKefK-8NcGxqM2cw53/view?usp=sharing  
