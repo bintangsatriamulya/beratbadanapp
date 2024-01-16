@@ -17,4 +17,12 @@ Fitur Utama
 Penggunaan
 1. Clone repository ini ke dalam Android Studio atau IDE Kotlin favorit Anda.
 2. Jalankan aplikasi di emulator atau perangkat Android fisik.
-3. Buidl Apk : https://drive.google.com/file/d/1CTLH54crwK0BpssKefK-8NcGxqM2cw53/view?usp=sharing  
+3. Buidl Apk : https://drive.google.com/file/d/1CTLH54crwK0BpssKefK-8NcGxqM2cw53/view?usp=sharing
+4. Output :
+   -Picture
+![Screenshot (340)](https://github.com/bintangsatriamulya/beratbadanapp/assets/122459899/5f7bab37-1ec7-4798-86d3-a278990ff5b9)
+   -Video :
+https://github.com/bintangsatriamulya/beratbadanapp/assets/122459899/3451df59-d536-4f0d-9d2e-cf9333c52917
+
+
+   
